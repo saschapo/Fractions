@@ -10,6 +10,7 @@
 
 @interface Fraction : NSObject
 
+
 -(NSString*)print;
 -(void)setNumerator: (int) n;
 -(void)setDenominator: (int) d;
